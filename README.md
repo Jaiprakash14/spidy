@@ -183,10 +183,3 @@ Spidy is a personal-companion project — PRs welcome for:
 - Better wake-word detection
 - Vosk / Whisper.cpp integration for offline STT
 
----
-
-## 📜 License
-
-MIT — do whatever, just keep it local. 🕷️
-
-Everything else is Spidy's own — 100% local, 100% yours. 🕷️
