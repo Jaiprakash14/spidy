@@ -1,9 +1,5 @@
-Here's a **ready-to-paste GitHub README** for your Spidy repo. Just copy the whole block below and paste into your repo's `README.md` on github.com 👇
 
----
-
-```markdown
-# 🕷️ Spidy — Your Offline AI Companion
+ 🕷️ Spidy — Your Offline AI Companion
 
 Spidy is a **Windows desktop AI assistant** that lives entirely on your machine.  
 No cloud. No telemetry. No data leaks. It talks, listens, remembers, controls your browser, and **asks permission before doing anything sensitive.**
@@ -193,13 +189,4 @@ Spidy is a personal-companion project — PRs welcome for:
 
 MIT — do whatever, just keep it local. 🕷️
 
----
-
-## 🕷️ Built With
-
-`customtkinter` · `pyttsx3` · `SpeechRecognition` · `playwright` · `python-dateutil` · `pycaw` · `pyautogui` · `ollama` (optional)
-
-Everything else is Spidy's own — 100% local, 100% yours.
-
-
-Your repo will look super polished — the badges, tables, and cheatsheet render beautifully on GitHub. 🕷️
+Everything else is Spidy's own — 100% local, 100% yours. 🕷️
